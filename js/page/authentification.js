@@ -67,7 +67,7 @@ export default class Authentification {
 
                     <div class="logo_login">
                         <!-- <img class="g_img" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/graphql-2892022-2399460.png" alt=""> -->
-                        <img class="g_img" src="../../assets/img/graphql_logo_white.png" alt="" class="g_img">
+                        <img class="g_img" src="graphql_logo_white.png" alt="" class="g_img">
                         <h2>GraphQL</h2>
                     </div>
 
